@@ -1,0 +1,23 @@
+# Archivos de configuración con credenciales
+app_config.py
+
+# Entornos virtuales de Python
+venv/
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Configuración de tu IDE
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
